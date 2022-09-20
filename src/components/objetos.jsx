@@ -1,6 +1,14 @@
 //Testimonios 
 export const testi = [
   { 
+    imagen:'erika',
+    name: 'Erika Aviles',
+    country:'Ecuador',
+    cargo:'Ingeniero de Software',
+    empresa:'Free lans',
+    testimonio:'Tengo a bien decir que me es honrrado haber cursado mi especializacion en freecodecamp, ahora tengo mucha experiencia y puedo aplicar mis conocimientos en todos los aspectos de mi carrera que antes no lo habia logrado. Por tal motivo estoy me encuentro muy contenta de haber tomado estos cursos tan enriquesedor donde involucro temas ,uy amplio de la programacion'
+  },
+  { 
     imagen:'shawn',
     name: 'Shawn Wang',
     country:'Shawn Wang ',
@@ -24,13 +32,6 @@ export const testi = [
     empresa:'Spotify',
     testimonio:'Siempre he tenido problemas para aprender JavaScript. He tomado muchos cursos, pero el curso de freeCodeCamp fue el que se atascó. Estudiar JavaScript, así como estructuras de datos y algoritmos en freeCodeCamp me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como ingeniero de software en Spotify'
   },
-  { 
-    imagen:'erika',
-    name: 'Erika Aviles',
-    country:'Ecuador',
-    cargo:'Ingeniero de Software',
-    empresa:'Free lans',
-    testimonio:'Tengo a bien decir que me es honrrado haber cursado mi especializacion en freecodecamp, ahora tengo mucha experiencia y puedo aplicar mis conocimientos en todos los aspectos de mi carrera que antes no lo habia logrado. Por tal motivo estoy me encuentro muy contenta de haber tomado estos cursos tan enriquesedor donde involucro temas ,uy amplio de la programacion'
-  }
+
 ]
 
